@@ -1,1 +1,1 @@
-kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic file-content-topic --from-beginning
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic file-content-topic --from-beginning
